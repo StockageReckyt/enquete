@@ -1,0 +1,79 @@
+    1  cd streets/
+    2  grep Annabel people 
+    3  cd streets/
+    4  grep haley
+    5  ls
+    6  grep Haley_Street 
+    7  nano Haley_Street 
+    8  nano Hart_Place 
+    9  nano Buckingham_Place 
+   10  nano Mattapan_Street 
+   11  cd ..
+   12  cd interviews/
+   13  nano #9437737
+   14  ls
+   15  nano interview-9437737
+   16  cd ..
+   17  ls
+   18  cd streets/
+   19  less Haley_Street 
+   20  OB
+   21  nano Buckingham_Place 
+   22  nano Hart_Place 
+   23  cd ..
+   24  *cd interviews/
+   25  cd interviews/
+   26  nano interview-871877
+   27  nano interview-699607
+   28  nano interview-47246024
+   29  cd ..
+   30  ls
+   31  cd vehicles
+   32  grep L337
+   33  grep L337 vehicles 
+   34  nano License Plate L337ZR9
+   35  nano License Plate L337P89
+   36  nano License Plate L337GX9
+   37  grep -C L337 8 vehicles 
+   38  grep -C 8 L337 vehicles 
+   39  grep -C 5 L337 vehicles 
+   40  grep -C 5 L337..9 vehicles 
+   41  ls
+   42  cd memberships/
+   43  ls
+   44  grep -C 5 Bostock AAA
+   45  grep -C 5 Bostock Terminal_City_Library 
+   46  grep -C 5 Bostock Museum_of_Bash_History 
+   47  grep Mulligan Museum_of_Bash_History 
+   48  grep Owens Museum_of_Bash_History 
+   49  grep Germuska Museum_of_Bash_History 
+   50  grep Bowers Museum_of_Bash_History 
+   51  grep Bowers Terminal_City_Library 
+   52  grep Bowers AAA
+   53  grep Maher AAA
+   54  grep Maher Terminal_City_Library 
+   55  grep Maher Museum_of_Bash_History 
+   56  cd ..
+   57  ls
+   58  cd memberships/
+   59  grep Maher Delta_SkyMiles 
+   60  grep Bostock Delta_SkyMiles 
+   61  grep Bowers Delta_SkyMiles 
+   62  ls
+   63  cd ..
+   64  grep Bostock people 
+   65  grep Bowers people 
+   66  grep Maher people 
+   67  cd interviews/
+   68  cd ..
+   69  cd streets/
+   70  ead -n 224 Andover_Road | tail -n 1
+   71  head -n 224 Andover_Road | tail -n 1
+   72  head -n 287 Senders_Court | tail -n 1
+   73  head -n 284 Dunstable_Road | tail -n 1
+   74  cd ..
+   75  cd interviews/
+   76  head interview-290346
+   77  head interview-9620713
+   78  echo Jeremy Bowers
+   79  history > mon_historique.log
